@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development  <br>👯 I’m looking to collaborate on all kinds of projects  <br>🤝 I’m looking for help with everything—I’m always eager to learn and grow  <br>🌱 I’m currently learning React to sharpen my skills  <br>💬 Ask me about anything—I’m always happy to share what I know or learn together  <br>⚡ Fun fact: I love video games and hitting the gym!  <br>
+🔭 I’m currently working on frontend development  <br>👯 I’m looking to collaborate on all kinds of projects  <br>🤝 I’m looking for help with everything—I’m always eager to learn and grow  <br>🌱 I’m currently learning React-NextJs-Redux And Typescript to sharpen my skills  <br>💬 Ask me about anything—I’m always happy to share what I know or learn together  <br>⚡ Fun fact: I love video games and hitting the gym!  <br>
 
 
 ## 🌐 Socials:
