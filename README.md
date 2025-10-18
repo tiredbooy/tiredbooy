@@ -1,6 +1,6 @@
 <!-- 🌊 Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=header&text=Mahdi%20👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Frontend%20Developer%20|%20Next.js%20|%20TypeScript&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,2,5,30&section=header&text=Mahdi%20👋&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=Frontend%20Developer%20|%20Next.js%20|%20TypeScript&descAlignY=75" />
 </div>
 
 <!-- 🧠 Intro -->
@@ -10,8 +10,12 @@
 
 <p align="center">
 Welcome to my GitHub! I’m passionate about building modern, performant, and user-friendly web applications.<br>
-I enjoy writing clean, efficient code and exploring new technologies that push my skills forward.
+I love writing clean, efficient code and exploring new technologies that push my skills forward.
 </p>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/4DEF84bYG2AAAAAd/stray-programming.gif" height="200" alt="Stray Programming GIF" />
+</div>
 
 ---
 
