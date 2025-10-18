@@ -30,4 +30,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tiredbooy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f47eb64s66pu68a6fhwjlq1pw)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
