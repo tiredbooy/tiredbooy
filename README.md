@@ -20,6 +20,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.tenor.com/_AZJmhAry0gAAAAi/rat-dancing-meme.gif"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -41,10 +45,6 @@
 ###
 
 <h1 align="left">Socials:</h1>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/_AZJmhAry0gAAAAi/rat-dancing-meme.gif"  />
 
 ###
 
