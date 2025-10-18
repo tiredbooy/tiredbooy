@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="200" src="https://tenor.com/view/rat-dancing-meme-trend-tiktok-dance-gif-18160283473463200584"  />
+<img align="right" height="200" src="https://media.tenor.com/_AZJmhAry0gAAAAi/rat-dancing-meme.gif"  />
 
 ###
 
@@ -65,20 +65,20 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiredbooy/tiredbooy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiredbooy/tiredbooy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tiredbooy/tiredbooy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiredbooy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=tiredbooy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=tiredbooy&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiredbooy&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiredbooy/tiredbooy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiredbooy/tiredbooy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tiredbooy/tiredbooy/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
