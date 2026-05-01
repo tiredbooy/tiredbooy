@@ -5,7 +5,7 @@
 
 <!-- 🧠 Intro -->
 <h3 align="center">
-💡 Frontend Developer | Next.js | TypeScript | Go Learner  
+💡 FullStack Developer | Next.js | TypeScript | Go  
 </h3>
 
 <p align="center">
