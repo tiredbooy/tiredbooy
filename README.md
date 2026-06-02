@@ -1,6 +1,6 @@
 <!-- 🌊 Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,2,5,30&section=header&text=Mahdi%20👋&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=Frontend%20Developer%20|%20Next.js%20|%20TypeScript&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,2,5,30&section=header&text=Mahdi%20👋&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=Fullstack%20Developer%20|%20Next.js%20|%20TypeScript|%20Go&descAlignY=75" />
 </div>
 
 <!-- 🧠 Intro -->
